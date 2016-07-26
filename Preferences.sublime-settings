@@ -1,3 +1,24 @@
 {
-"font_size": 12
+	"Jekyll":
+	{
+		"jekyll_auto_find_paths": true
+	},
+	"font_size": 12,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Markdown",
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"overlay_scroll_bars": "enabled",
+	"word_wrap": true,
+	"wrap_width": 120
 }
