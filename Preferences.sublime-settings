@@ -3,7 +3,7 @@
 	{
 		"jekyll_auto_find_paths": true
 	},
-	"font_size": 12,
+	"font_size": 11,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -20,5 +20,7 @@
 	"line_padding_top": 2,
 	"overlay_scroll_bars": "enabled",
 	"word_wrap": true,
-	"wrap_width": 120
+	"wrap_width": 120,
+	"show_encoding" : true,
+	"default_encoding": "UTF-8"
 }
